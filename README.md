@@ -1,6 +1,10 @@
 # village_visitor
 
-A new Flutter project.
+ - Flutter basic widget.
+ - Take picture.
+ - Image crop and image draw.
+ - Json to Dart object.
+ - Get and Post Api.
 
 ## Getting Started
 
